@@ -1,0 +1,2 @@
+time.sleep(2)
+            localizar_e_clicar('farmar.png', confidence=0.7, descricao="Terceira imagem (farmar)")
